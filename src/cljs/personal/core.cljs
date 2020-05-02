@@ -43,10 +43,9 @@
 
 (defn home-page []
   (fn []
-    [:div.grid.grid-cols-5.w-screen.h-screen
+    [:div.h-full.w-screen.bg-gray-300.grid.grid-flow-rows.lg:grid-cols-5.lg:h-screen
      [nav state]
-     [main-view state]
-     ]))
+     [main-view state]]))
 
 ;; -------------------------
 ;; Translate routes -> page components
