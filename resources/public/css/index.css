@@ -1,0 +1,21 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+body {
+    font-family: "Barlow", sans-serif;
+}
+
+.meddon {
+    font-family: "Meddon", cursive;
+}
+
+.insconsolata {
+    font-family: "Inconsolata", monospace;
+}
+
+.circle {
+    border-radius: 50%;
+}
