@@ -43,7 +43,7 @@
 
 (defn home-page []
   (fn []
-    [:div.h-full.w-screen.bg-gray-300.grid.grid-flow-rows.lg:grid-cols-5.lg:h-screen
+    [:div.h-screen.bg-gray-300.w-screen.grid.grid-rows-2.lg:grid-cols-5
      [nav state]
      [main-view state]]))
 
@@ -62,9 +62,7 @@
   (fn []
     (let [page (:current-page (session/get :route))]
       [:div
-       [:header]
-       [page]
-       [:footer]])))
+       [page]])))
 
 ;; -------------------------
 ;; Initialize app
