@@ -43,7 +43,7 @@
 
 (defn home-page []
   (fn []
-    [:div.h-screen.bg-gray-300.w-screen.grid.grid-rows-2.lg:grid-cols-5
+    [:div.h-screen.w-screen.grid.grid-rows-2.lg:grid-cols-5
      [nav state]
      [main-view state]]))
 

@@ -7,7 +7,7 @@
 (defn main-view
   [state]
   (fn []
-    [:div.h-screen.w-full.p-4.lg:col-span-4.bg-gray-300
+    [:div.h-screen.w-full.p-4.lg:col-span-4
      (case (:active-page @state)
        :home [home]
        :about [about]
