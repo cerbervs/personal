@@ -1,5 +1,5 @@
 (ns personal.poetry
-  (:require [clojure.string :as str :refer [replace]]
+  (:require [clojure.string :as str :refer [replace escape]]
             [goog.string :as gstring]))
 
 (def poems {"Demagogue"
@@ -52,6 +52,6 @@ Keep walking, don't turn back, there's nothing for you that way."})
        [:p {:key (first poem)}
         [:span.font-bold.text-center (first poem)]
         [:br]
-        [:span.text-justify (replace (second poem) #"\n" "\r\n")]
+        [:span.text-justify.poem (escape (second poem) {"\n" "\u000a\u000d"})]
         [:br]
         [:br]])]))

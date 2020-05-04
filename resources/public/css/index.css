@@ -20,3 +20,7 @@ body {
 .circle {
     border-radius: 50%;
 }
+
+.poem {
+    white-space: pre-line;
+}
