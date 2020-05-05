@@ -1,3 +1,32 @@
+body {
+  font-family: "Barlow", sans-serif;
+  background-color: #e2e8f0;
+}
+
+.meddon {
+  font-family: "Meddon", cursive;
+}
+
+.inconsolata {
+  font-family: "Inconsolata", monospace;
+}
+
+.circle {
+  border-radius: 50%;
+}
+
+.poem {
+  white-space: pre-line;
+}
+
+.zoom {
+  transition: .3s;
+}
+
+.zoom:hover {
+  transform: scale(1.5);
+}
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
@@ -621,6 +650,14 @@ video {
   .container {
     max-width: 1280px;
   }
+}
+
+.website-img {
+  margin: 1rem;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  height: auto;
+  width: auto;
+  max-width: 28rem
 }
 
 .space-y-0 > :not(template) ~ :not(template) {
@@ -14960,27 +14997,6 @@ video {
 
 .delay-1000 {
   transition-delay: 1000ms;
-}
-
-body {
-  font-family: "Barlow", sans-serif;
-  background-color: #e2e8f0;
-}
-
-.meddon {
-  font-family: "Meddon", cursive;
-}
-
-.insconsolata {
-  font-family: "Inconsolata", monospace;
-}
-
-.circle {
-  border-radius: 50%;
-}
-
-.poem {
-  white-space: pre-line;
 }
 
 @media (min-width: 640px) {

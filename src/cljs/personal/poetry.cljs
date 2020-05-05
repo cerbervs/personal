@@ -43,7 +43,79 @@ Gorging ourselves on the fruits we found on the underside of branches, tickling 
 Here is where we part ways, friend.
 Step down from our dizzying height, I'll turn right, and you, left. 
 Turn your face to the sun, breathe in and step out. 
-Keep walking, don't turn back, there's nothing for you that way."})
+Keep walking, don't turn back, there's nothing for you that way."
+
+            "Winter is Coming"
+            "Time and time again we struggle through the thick of it.
+You, crying, me, somewhat steadfast, somehow unflinching. 
+Winter is near, I can feel it in my bones. 
+But I am ready for the cold. I have been preparing for those days, when the world is white, blinding, and silent.
+So come, bring your iciest words to the table.
+Give me shivers that last a life time, wake me in the dead of night, like it's the dead of winter, and my fan is still on, and my blanket is thin, and my bed is empty, save my hollow body. 
+Pour your liquid nitrogen breath down my throat, let it freeze me up, keep me stable, because I can't fucking move anymore. 
+It's alright. It's okay. I'll thaw eventually.
+I might lose a finger, maybe a toe or two, god forbid something important, something
+vital.
+But in the end I'll still walk, talk, pretend,
+it's okay, it's alright. 
+Please, bring your mightiest blizzard."
+
+            "This Time, We Lost"
+            "So everyone has left, I am here alone,
+for a week, give or take.
+And this weight I've been feeling on my shoulders,
+it's on my chest now too.
+It's getting real heavy, it's starting to hurt real bad. 
+Felt like I was scraping by, up there, with you.
+And now I'm home again, and I fucking hate that I have to be here. 
+But there was no other way, just the road in front of me as I slipped further from you.
+
+I am so sorry I had to do this. 
+It broke me too, and it will break me further; there's more to come, there always is. 
+My heart's been bleeding, it's been on my sleeve, but you can't see the blood.
+Good thing is, if it isn't in my chest, this weight can't crush it.
+
+We'll meet those final moments together, together. 
+Seeing the last sunset from years and years apart; wholly different vantage points.
+Silence as the last goodbye, I imagine.
+We'll see this through, until it is, and we can both rest. 
+Because it's been a long slog, we fought hard, but this time, we lost."
+
+            "If You'd Care to Talk"
+            "Please use my name when you address me.
+I will hear all the words you speak, again, when the time comes to lay my head down.
+It sounds so delicate, wrapped gently in your voice.
+I want to clutch it in my head, black and silken, stitched just so around the edges of the way you call me. 
+I want it to echo through me, bursting like claps of thunder, and calmly like the pitter-patter of soft rains.
+This way, when all I have left is my name, it will be clothed in your softest tones, as if it's better unsaid unless spoken by you."
+
+            "I Will Carry You, as Atlas Carries the Sky (Reprise)"
+            "We will be the salt of the earth at the end of days. 
+Returned from dust, to dust.
+Made from ash, molded by fire, and flame.
+We came into this world screaming, and we will not leave quietly, not without struggle.
+We will have stood tall at times, we will have crawled a time a time or two,
+And our hands and feet will be calloused. 
+Sometimes carrying each other, sometimes dragged by the little clothing we have left.
+
+We will arrive,
+at the perfect time,
+to see him stand, with the sky on his shoulders.
+And we will nod as we pass by, limping, slightly lame, and silent. 
+He will shrug. He knows struggle greater than we ever could.
+A gentle smile will cross his lips, as we, among many, make our pilgrimage on. 
+Your arm over my shoulders, I am stooped to bear your weight, so that we may march unto the sun.
+
+We've come so far,
+and we've pushed up with all our might, out of frozen ground,
+like seeds of something great.
+We've got to keep on going,
+we can't stop.
+I've given too much to this cause, I won't let up.
+For years we have trudged along, and for years more we will continue.
+And I swear to you, I won't let us fall.
+We will press onward, until only God can stop us. 
+Because I will carry you, as Atlas carries the sky."})
 
 (defn poetry []
   (fn []

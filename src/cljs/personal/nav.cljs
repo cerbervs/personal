@@ -10,7 +10,7 @@
         {:class "w-40 h-40"
          :src "img/headshot.jpg"
          :alt "Me!"}]
-       [:p.text-gray-300.text-center.text-4xl.meddon "Mark Bailey"]]
+       [:p.text-gray-300.text-center.text-4xl.meddon "Mark Bailey"[:br][:span.text-lg.inconsolata "WebDev and Poet"]]]
       [:div
        {:class "h-32"}
        [:ul.flex-none.mt-4 (for [link (:pages @state)]

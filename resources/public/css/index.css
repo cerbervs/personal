@@ -1,9 +1,3 @@
-@tailwind base;
-
-@tailwind components;
-
-@tailwind utilities;
-
 body {
     font-family: "Barlow", sans-serif;
     background-color: #e2e8f0;
@@ -13,7 +7,7 @@ body {
     font-family: "Meddon", cursive;
 }
 
-.insconsolata {
+.inconsolata {
     font-family: "Inconsolata", monospace;
 }
 
@@ -24,3 +18,21 @@ body {
 .poem {
     white-space: pre-line;
 }
+
+.zoom {
+    transition: .3s;
+}
+
+.zoom:hover {
+    transform: scale(1.5);
+}
+
+@tailwind base;
+
+@tailwind components;
+
+.website-img {
+    @apply m-4 shadow-xl h-auto w-auto max-w-md
+}
+
+@tailwind utilities;
