@@ -32,7 +32,7 @@ body {
 @tailwind components;
 
 .website-img {
-    @apply m-4 shadow-xl h-auto w-auto max-w-xs flex-initial object-cover
+    @apply m-4 shadow-xl h-auto w-32 max-w-xs flex-initial object-cover
 }
 
 @tailwind utilities;
