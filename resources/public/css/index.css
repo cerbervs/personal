@@ -15,7 +15,7 @@ body {
     border-radius: 50%;
 }
 
-.poem {
+.line-break {
     white-space: pre-line;
 }
 
@@ -32,7 +32,7 @@ body {
 @tailwind components;
 
 .website-img {
-    @apply m-4 shadow-xl h-auto w-48 max-w-md flex-initial object-cover
+    @apply m-4 shadow-xl h-auto w-40 max-w-sm flex-initial object-cover
 }
 
 @tailwind utilities;

@@ -124,6 +124,10 @@ Because I will carry you, as Atlas carries the sky."})
        [:p {:key (first poem)}
         [:span.font-bold.text-center (first poem)]
         [:br]
-        [:span.text-justify.poem (escape (second poem) {"\n" "\u000a\u000d"})]
+        [:span.text-justify.line-break (escape (second poem) {"\n" "\u000a\u000d"})]
         [:br]
-        [:br]])]))
+        [:br]])
+     [:hr]
+     [:p.line-break.text-sm "All poetry on this page is written by me, Mark Bailey. I claim full rights to every word and sentence on this page. Do not use or redistribute any of these poems, or pieces of them without my express written consent."
+      [:br]
+      [:span.text-xs "© Mark Bailey 2020 - Present"]]]))

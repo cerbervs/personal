@@ -12,7 +12,7 @@
      [:p.text-center.text-xs 
       [:img.mx-auto.rounded-lg {:src "img/headshot.jpg"
                                 :alt "Me!"
-                                :width "200px"
+                                :width "175px"
                                 :height "auto"}]
       "This is what I look like"]
      [:br]
