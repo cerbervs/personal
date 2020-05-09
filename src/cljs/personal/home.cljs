@@ -19,7 +19,7 @@
      [:br]
      [:br]
      [:p [:span.text-2xl "I"] "  make websites and write poetry among a number of another involuntary and voluntary things throughout the day."]
-     [:p [:span.text-2xl "P"] "lease take a look through my website. You may find things here that you like. All I ask is that if you do, you also take a look at my Contact page and drop me a line through whichever method suits you."]
+     [:p [:span.text-2xl "P"] "lease take a look through my website. You may find things here that you like. All I ask is that if you do, you also take a look at my About Me page and drop me a line through whichever method suits you."]
      [:br]
      [:br]
      [:br]

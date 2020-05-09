@@ -15,4 +15,4 @@
      [:br]
      [:p.line-break.text-2xl "Contact me via:"]
      [:br]
-     [:p.line-break [:span.text-xl "Email: "][:a {:href "mailto:contact.markbaileyio@gmail.com"} "contact.markbaileyio@gmail.com"]]]))
+     [:p.line-break [:span.text-xl "Email: "][:a {:href "mailto:markbaileyio.contact@gmail.com"} "markbaileyio.contact@gmail.com"]]]))
