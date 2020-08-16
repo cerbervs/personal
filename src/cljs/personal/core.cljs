@@ -45,11 +45,11 @@
   (fn []
     [:div.h-full.w-full.absolute.top-0.left-0
      [:div.w-screen.h-auto.bg-gray-900.lg:h-full.lg:fixed.lg:float-left
-     {:class "lg:w-1/5"}
-     [nav state]]
-    [:div.h-screen.bottom-0.p-4.lg:float-right
-     {:class "lg:w-4/5"}
-     [main-view state]]]))
+      {:class "lg:w-1/5"}
+      [nav state]]
+     [:div.h-screen.bottom-0.p-4.lg:float-right
+      {:class "lg:w-4/5"}
+      [main-view state]]]))
 
 ;; -------------------------
 ;; Translate routes -> page components

@@ -115,7 +115,28 @@ I've given too much to this cause, I won't let up.
 For years we have trudged along, and for years more we will continue.
 And I swear to you, I won't let us fall.
 We will press onward, until only God can stop us. 
-Because I will carry you, as Atlas carries the sky."})
+Because I will carry you, as Atlas carries the sky."
+
+            "Relic"
+            "Another relic to add to the vault, stashed away til it needs cracked again. Til I need to stow something new, turn it into something old. 
+Fleeting are the memories that I'll hold once my head calms down. 
+I prefer it that way, it's easier to forget everything but the good. 
+Not quite like the videos I keep locked away in some chest buried by the back wall of my mind;
+they are underdeveloped black and whites. Stills, taken at the wrong shutter speed, wrong film size, something, they are all blurred. Just enough that I don't have to recognize your face if I don't want to. 
+Just another relic to add to the vault. Just another empty vessel to be covered in dust."
+
+            "(untitled)"
+            "you came in, sat down,
+i'm sure your feet hurt, you didn't have shoes on. 
+there are prints on my floor, bloody, ground into the linoleum, of exactly where you stepped. and where you stood. 
+
+and where you sat, when you were finally ready, that chair will never move. 
+you will forever be the lone inhabitant of the empty other side of my kitchen. 
+you will linger on, here in the dust moats, and in the fabric of the pillow on your chair. 
+your chair. 
+it had always been yours. 
+
+but I don't know where you've been these past few years."})
 
 (defn poetry []
   (fn []
