@@ -22,9 +22,7 @@
                               :poetry {:title "My Poetry"
                                        :href "#poetry"
                                        :id :poetry}}
-                      :active-page :home
-                      :contact-info {:name "Mark Bailey"
-                                     :email "mbbailey96@gmail.com"}}))
+                      :active-page :home}))
 
 ;; -------------------------
 ;; Routes
