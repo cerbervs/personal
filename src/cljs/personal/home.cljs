@@ -10,7 +10,7 @@
      [:br]
      [:br]
      [:p.text-center.text-xs 
-      [:img.mx-auto.rounded-lg {:src "img/headshot.jpg"
+      [:img.mx-auto.rounded-lg {:src "img/headshot_beard.jpg"
                                 :alt "Me!"
                                 :width "175px"
                                 :height "auto"}]
