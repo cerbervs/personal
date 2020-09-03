@@ -148,11 +148,12 @@ I keep my arms out straight. Ten and two although I prefer nine and three. Bette
 
 Hurtling along at 100 plus, yet I can barely feel it. 
 No tenseness, can't afford to jerk the wheel.
+My posture loose and ready for response. 
 Brakes -- and I have to slow, pulling down into fifth then fourth. 
 
 And so it goes, I get going fast, then someone hits the brakes for me. Keeping me in line, putting me right back at square one. 
 Sometimes in neutral.
-Sometimes in between gears so I can never keep a steady speed, no course of action because I just don't know what's coming."})
+Sometimes in between gears so I can never keep a steady speed, no course of action because I just don't know what's coming."
 
 (defn poetry []
   (fn []
