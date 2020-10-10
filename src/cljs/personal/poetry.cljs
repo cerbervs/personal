@@ -161,7 +161,9 @@ Sometimes in between gears so I can never keep a steady speed, no course of acti
        [:p {:key (first poem)}
         [:span.font-bold.text-center (first poem)]
         [:br]
+        [:br]
         [:span.text-justify.line-break (escape (second poem) {"\n" "\u000a\u000d"})]
+        [:br]
         [:br]
         [:br]])
      [:hr]

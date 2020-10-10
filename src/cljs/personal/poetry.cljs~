@@ -136,7 +136,23 @@ you will linger on, here in the dust moats, and in the fabric of the pillow on y
 your chair. 
 it had always been yours. 
 
-but I don't know where you've been these past few years."})
+but I don't know where you've been these past few years."
+
+            "Banking on Happy"
+            "I'm not banking on happy. 
+Just striving for stable; to be firmly seated and buckled in.
+To have my arms and legs inside the vehicle at all times, no chance to get hurt.
+
+The seatbelt sign is still illuminated -- please, stay seated. 
+I keep my arms out straight. Ten and two although I prefer nine and three. Better for going fast, you know?
+
+Hurtling along at 100 plus, yet I can barely feel it. 
+No tenseness, can't afford to jerk the wheel.
+Brakes -- and I have to slow, pulling down into fifth then fourth. 
+
+And so it goes, I get going fast, then someone hits the brakes for me. Keeping me in line, putting me right back at square one. 
+Sometimes in neutral.
+Sometimes in between gears so I can never keep a steady speed, no course of action because I just don't know what's coming."})
 
 (defn poetry []
   (fn []
